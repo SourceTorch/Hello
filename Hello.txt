@@ -1,0 +1,5 @@
+Hello!
+
+Welcome to SourceTorch. I wanted to say SorchTorce!
+
+Here we post open-source code. Absolutely anything, from clde editors to ai.
